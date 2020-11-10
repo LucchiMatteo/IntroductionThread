@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\prof.lucchi\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\asus f556uj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prof.lucchi\\Documents\\IntroductionThread\\IntroductionToThread\\IntroductionToThread\\IntroductionToThread.csproj",
+      "projectUniqueName": "C:\\Users\\asus f556uj\\source\\repos\\IntroductionThread\\IntroductionToThread\\IntroductionToThread\\IntroductionToThread.csproj",
       "projectName": "IntroductionToThread",
-      "projectPath": "C:\\Users\\prof.lucchi\\Documents\\IntroductionThread\\IntroductionToThread\\IntroductionToThread\\IntroductionToThread.csproj",
-      "packagesPath": "C:\\Users\\prof.lucchi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prof.lucchi\\Documents\\IntroductionThread\\IntroductionToThread\\IntroductionToThread\\obj\\",
+      "projectPath": "C:\\Users\\asus f556uj\\source\\repos\\IntroductionThread\\IntroductionToThread\\IntroductionToThread\\IntroductionToThread.csproj",
+      "packagesPath": "C:\\Users\\asus f556uj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asus f556uj\\source\\repos\\IntroductionThread\\IntroductionToThread\\IntroductionToThread\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\prof.lucchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\asus f556uj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -63,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

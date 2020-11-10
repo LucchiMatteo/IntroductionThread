@@ -11,3 +11,16 @@ C:\Users\prof.lucchi\Documents\IntroductionThread\IntroductionToThread\Introduct
 C:\Users\prof.lucchi\Documents\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.dll
 C:\Users\prof.lucchi\Documents\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.pdb
 C:\Users\prof.lucchi\Documents\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.genruntimeconfig.cache
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\bin\Debug\netcoreapp3.1\IntroductionToThread.exe
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\bin\Debug\netcoreapp3.1\IntroductionToThread.deps.json
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\bin\Debug\netcoreapp3.1\IntroductionToThread.runtimeconfig.json
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\bin\Debug\netcoreapp3.1\IntroductionToThread.runtimeconfig.dev.json
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\bin\Debug\netcoreapp3.1\IntroductionToThread.dll
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\bin\Debug\netcoreapp3.1\IntroductionToThread.pdb
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.csprojAssemblyReference.cache
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.AssemblyInfoInputs.cache
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.AssemblyInfo.cs
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.csproj.CoreCompileInputs.cache
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.dll
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.pdb
+C:\Users\asus f556uj\source\repos\IntroductionThread\IntroductionToThread\IntroductionToThread\obj\Debug\netcoreapp3.1\IntroductionToThread.genruntimeconfig.cache
